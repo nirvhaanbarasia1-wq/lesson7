@@ -1,0 +1,35 @@
+h1,
+h2 {
+    font-size: 18px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 33px;
+    font-family: cursive;
+}
+
+h2 {
+    color: blueviolet;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+
+.my-detail {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+#my-card {
+    background-color: lightcyan;
+}
